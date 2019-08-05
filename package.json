@@ -1,0 +1,24 @@
+{
+  "name": "express-server-etag-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAkif/express-server-etag-example.git"
+  },
+  "author": "Muhammad Akif <muhammad.akif786@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuhammadAkif/express-server-etag-example/issues"
+  },
+  "homepage": "https://github.com/MuhammadAkif/express-server-etag-example#readme",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.16.4",
+    "uuid": "3.3.2"
+  }
+}
